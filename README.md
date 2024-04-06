@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new machine learning algorithms and techniques.
 - 💞️ I’m looking to collaborate on open-source projects related to natural language processing.
 - 📫 How to reach me Feel free to send me a message on GitHub.
-- 😄 Pronouns: Krishna
+- 😄 Pronouns:  Krishna
 - ⚡ Fun fact: I once climbed Mount Everest in a video game marathon.
 
 <!---
